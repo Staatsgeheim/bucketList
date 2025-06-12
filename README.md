@@ -49,7 +49,7 @@ These tools are ideal for exploring public data sets, open cloud archives, or an
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/bucketList.git
+   git clone https://github.com/Staatsgeheim/bucketList.git
    cd bucketList
    ```
 
@@ -100,7 +100,7 @@ These tools are ideal for exploring public data sets, open cloud archives, or an
 1. **Clone the repository and create a virtual environment:**
 
    ```powershell
-   git clone https://github.com/YOUR-USERNAME/bucketList.git
+   git clone https://github.com/Staatsgeheim/bucketList.git
    cd bucketList
    python -m venv venv
    .\venv\Scripts\activate
